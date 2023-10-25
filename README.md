@@ -26,6 +26,6 @@ To install Docker Cleaner Script, follow these steps:
 
 Linux and macOS:
 
-git clone https://github.com/your-username/docker-cleaner-script.git
+git clone https://github.com/Matanmoshes/docker-cleaner-script.git
 cd docker-cleaner-script
 pip install -r requirements.txt
